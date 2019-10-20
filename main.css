@@ -1,0 +1,14 @@
+@charset'utf-8';
+.body{font-size:16px;color: indianred;}
+h1{font-family: 方正姚体，黑体，宋体;font-size: 20px;text-align: center;color: darkred;}
+h2{font-family: 黑体;font-size: 16px;color: #099;}
+p{line-height: 2em;}
+.nav{background-color: #9F0;margin-left: 15%;margin-right: 15%;text-align: center;font-size: 18px;}
+.copyright{margin-bottom:10px; }
+div{border-width:80%;
+			border-color: rgba(218,218,218,1.00);
+			padding: 5px;20px;
+			border-style: dashed;
+	        min-height: 700px;
+
+}
